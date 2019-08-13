@@ -6,3 +6,8 @@
 
 ![image](https://raw.githubusercontent.com/jcleng/layui-city-select/master/view.png)
 ![image](https://raw.githubusercontent.com/jcleng/layui-city-select/master/data.png)
+
+> 增加一个微信小程序的选择版本
+
+![image](https://raw.githubusercontent.com/jcleng/layui-city-select/master/minaview.png)
+![image](https://raw.githubusercontent.com/jcleng/layui-city-select/master/minadata.png)
